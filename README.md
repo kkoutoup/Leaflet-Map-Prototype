@@ -2,7 +2,7 @@
 A responsive map prototype using Bootstrap and Leaflet.js to add user interactivity (popups, markers, filtering portions of the map etc.)
 
 ### Screenshots
-
+![screenshot-1](/screenshots/screenshot-1.JPG)
 
 ### Category
 Data visualisation/interactive maps
